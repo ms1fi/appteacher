@@ -1,6 +1,6 @@
 {
- "code": 250,
- "v": "24.10",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher.apk?v=250",
- "notes": "مساحة الإجابة لكل سؤال على حدة، من سؤال واحد إلى سؤالين في الصفحة · تصدير PDF وWord يعرض الأسئلة كاملة · جدول المدرس صورة أو PDF"
+ "code": 251,
+ "v": "24.11",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher.apk?v=251",
+ "notes": "مساحة الإجابة لكل سؤال على حدة · تصدير PDF وWord يعرض الأسئلة كاملة · جدول المدرس صورة أو PDF · تنبيه واضح قبل التحديث"
 }
