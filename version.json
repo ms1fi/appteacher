@@ -1,6 +1,6 @@
 {
- "code": 247,
- "v": "24.7",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher.apk?v=247",
- "notes": "ملخص اليوم صار صباحياً أو مسائياً حسب دوامك، مع اختيار وقته قبل أول حصة · واجهة رئيسية جديدة · بطاقة الطالب"
+ "code": 250,
+ "v": "24.10",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher.apk?v=250",
+ "notes": "مساحة الإجابة لكل سؤال على حدة، من سؤال واحد إلى سؤالين في الصفحة · تصدير PDF وWord يعرض الأسئلة كاملة · جدول المدرس صورة أو PDF"
 }
