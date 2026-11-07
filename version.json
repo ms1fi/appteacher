@@ -1,7 +1,7 @@
 {
- "code": 283,
- "v": "24.43",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.43.apk",
- "notes": "عرض سبب رفض Google عند فشل المزامنة، وإزالة زر العودة من صفحة الربط",
+ "code": 284,
+ "v": "24.44",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.44.apk",
+ "notes": "تشخيص صلاحيات Drive عند الرفض",
  "reinstall": false
 }
