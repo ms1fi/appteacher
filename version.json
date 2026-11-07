@@ -1,7 +1,7 @@
 {
- "code": 293,
- "v": "24.53",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.53.apk",
- "notes": "إصلاح الكتب الممسوحة (كانت تظهر بيضاء)، دعم ملفات Word في القارئ الجانبي، وإصلاح تداخل شريطه مع الشريط العلوي",
+ "code": 297,
+ "v": "24.57",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.57.apk",
+ "notes": "المنصة الرسمية: مظهر كحلي مؤسسي بألوان صورة المنصة (افتراضي للتثبيتات الجديدة) + شكل رسمي موحّد للأدوات",
  "reinstall": false
 }
