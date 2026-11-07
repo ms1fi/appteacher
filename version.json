@@ -1,7 +1,7 @@
 {
- "code": 288,
- "v": "24.48",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.48.apk",
- "notes": "إصلاح رمش/رعشة الواجهة (إزالة التمويه الثقيل)، منتقي وقت في أوقات الدروس",
+ "code": 289,
+ "v": "24.49",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.49.apk",
+ "notes": "إخفاء الشريط السفلي داخل «ورقة الأسئلة» ليظهر زر الحفظ والخيارات",
  "reinstall": false
 }
