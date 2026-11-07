@@ -1,7 +1,7 @@
 {
- "code": 285,
- "v": "24.45",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.45.apk",
- "notes": "توضيح الفرق بين الحفظ التلقائي وملف النسخة، إرشادات تسجيل الدخول بـ Google، واكتشاف خانة Drive غير المفعّلة",
+ "code": 286,
+ "v": "24.46",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.46.apk",
+ "notes": "شريط سفلي قابل للتخصيص، بطاقة ترحيب بالحفظ التلقائي، ترتيب الواجهة الرئيسية، وأربعة أشكال رسمية بلون واحد (أبيض نقي، رمادي داكن، أسود وأخضر، كحلي ليلي)",
  "reinstall": false
 }
