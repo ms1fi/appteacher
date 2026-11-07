@@ -1,7 +1,7 @@
 {
- "code": 287,
- "v": "24.47",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.47.apk",
- "notes": "اللقب أستاذ/أستاذة في ملفّي والإعدادات (تتغير كل التحيات تلقائياً)",
+ "code": 288,
+ "v": "24.48",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.48.apk",
+ "notes": "إصلاح رمش/رعشة الواجهة (إزالة التمويه الثقيل)، منتقي وقت في أوقات الدروس",
  "reinstall": false
 }
