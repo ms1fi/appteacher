@@ -1,7 +1,7 @@
 {
- "code": 282,
- "v": "24.42",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.42.apk",
- "notes": "تسجيل الدخول بحساب Google بدون نسخ أو لصق: يفتح المتصفح للموافقة ثم يعود التطبيق ويكتمل الربط تلقائياً",
+ "code": 283,
+ "v": "24.43",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.43.apk",
+ "notes": "عرض سبب رفض Google عند فشل المزامنة، وإزالة زر العودة من صفحة الربط",
  "reinstall": false
 }

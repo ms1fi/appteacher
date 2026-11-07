@@ -16,7 +16,7 @@ var RU=location.origin+location.pathname;
 function u8(t){t=t.replace(/-/g,"+").replace(/_/g,"/");while(t.length%4)t+="=";return Uint8Array.from(atob(t),function(c){return c.charCodeAt(0)})}
 function b64(u){var s="";for(var i=0;i<u.length;i++)s+=String.fromCharCode(u[i]);return btoa(s)}
 function show(ic,h,p,extra){document.getElementById("c").innerHTML='<div class="i">'+ic+'</div><h1>'+h+'</h1><p>'+p+'</p>'+(extra||"")}
-function back(){return '<a class="b" href="intent:#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;package=iq.digitalteacher.app;end">↩ العودة إلى التطبيق</a><p>إن لم يفتح الزر، افتح تطبيق «الأستاذ الرقمي» يدوياً — الربط يكتمل وحده.</p>'}
+function back(){return '<p>أغلق هذه الصفحة وافتح تطبيق «الأستاذ الرقمي» — الربط يكتمل وحده خلال ثوانٍ.</p>'}
 (async function(){
  try{
   var q=new URLSearchParams(location.search),code=q.get("code"),st=q.get("state")||"";
