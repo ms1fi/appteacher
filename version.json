@@ -1,7 +1,7 @@
 {
- "code": 284,
- "v": "24.44",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.44.apk",
- "notes": "تشخيص صلاحيات Drive عند الرفض",
+ "code": 285,
+ "v": "24.45",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.45.apk",
+ "notes": "توضيح الفرق بين الحفظ التلقائي وملف النسخة، إرشادات تسجيل الدخول بـ Google، واكتشاف خانة Drive غير المفعّلة",
  "reinstall": false
 }

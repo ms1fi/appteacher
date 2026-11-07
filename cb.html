@@ -24,12 +24,13 @@ function back(){return '<p>أغلق هذه الصفحة وافتح تطبيق «
   var parts=st.split(".");if(!code||parts.length!==2||!/^[a-z0-9]{24}$/.test(parts[0])){show("⚠️","رابط غير صالح","ابدأ الربط من داخل التطبيق.");return}
   var r=await fetch("https://oauth2.googleapis.com/token",{method:"POST",headers:{"Content-Type":"application/x-www-form-urlencoded"},body:new URLSearchParams({code:code,client_id:CID,client_secret:SEC,redirect_uri:RU,grant_type:"authorization_code"})});
   var o=await r.json();
-  var payload=JSON.stringify(o.access_token?{access_token:o.access_token,refresh_token:o.refresh_token||"",expires_in:o.expires_in||3600}:{error:o.error||"x"});
+  var noscope=!!o.access_token&&!/drive\.appdata/.test(o.scope||"");if(noscope)o.error="noscope";var payload=JSON.stringify(o.access_token&&!noscope?{access_token:o.access_token,refresh_token:o.refresh_token||"",expires_in:o.expires_in||3600}:{error:o.error||"x"});
   var key=await crypto.subtle.importKey("raw",u8(parts[1]),"AES-GCM",false,["encrypt"]),iv=crypto.getRandomValues(new Uint8Array(12));
   var ct=new Uint8Array(await crypto.subtle.encrypt({name:"AES-GCM",iv:iv},key,new TextEncoder().encode(payload)));
   var all=new Uint8Array(12+ct.length);all.set(iv,0);all.set(ct,12);
   var w=await fetch("https://firestore.googleapis.com/v1/projects/"+PID+"/databases/(default)/documents/oauth_sessions?documentId="+parts[0]+"&key="+KEY,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({fields:{d:{stringValue:b64(all)},t:{integerValue:String(Date.now())}}})});
   if(!w.ok)throw new Error("fs"+w.status);
+  if(noscope){show("⚠️","لم تُفعَّل صلاحية Drive","في شاشة Google كانت خانة <b>Google Drive</b> غير مفعّلة. ارجع إلى التطبيق واضغط «مزامنة الآن» ثم فعّل المربع ☑ بجانب Drive واضغط «متابعة».");return}
   if(!o.access_token){show("⚠️","تعذّر الربط","رفضت Google الطلب ("+(o.error||"")+"). أعد المحاولة من التطبيق.");return}
   show("✅","تم الربط بنجاح","يمكنك الآن العودة إلى التطبيق.",back());
  }catch(e){show("⚠️","تعذّر إكمال الربط","تحقق من الإنترنت ثم أعد المحاولة من التطبيق.","<small>"+String(e&&e.message||e)+"</small>")}
