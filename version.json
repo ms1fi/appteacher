@@ -1,7 +1,7 @@
 {
- "code": 262,
- "v": "24.22",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.22.apk",
- "notes": "إصلاح تصدير PDF: لم يعد يغيّر شكل السجل عن المعاينة (الافتراضي «كما في المعاينة»)، وإصلاح أزرار التصميم غير المرئية",
+ "code": 282,
+ "v": "24.42",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.42.apk",
+ "notes": "تسجيل الدخول بحساب Google بدون نسخ أو لصق: يفتح المتصفح للموافقة ثم يعود التطبيق ويكتمل الربط تلقائياً",
  "reinstall": false
 }
