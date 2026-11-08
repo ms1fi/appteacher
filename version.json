@@ -1,7 +1,7 @@
 {
- "code": 297,
- "v": "24.57",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.57.apk",
- "notes": "المنصة الرسمية: مظهر كحلي مؤسسي بألوان صورة المنصة (افتراضي للتثبيتات الجديدة) + شكل رسمي موحّد للأدوات",
+ "code": 300,
+ "v": "24.60",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.60.apk",
+ "notes": "الزمرد الملكي افتراضي · محاذاة أسماء الطلاب في السجلات · إصلاح تحية الإشعار · عناوين أوضح · تباين ألوان سليم في كل الأدوات والمظاهر",
  "reinstall": false
 }
