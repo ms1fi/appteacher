@@ -1,7 +1,7 @@
 {
- "code": 301,
- "v": "24.61",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.61.apk",
- "notes": "توحيد أوقات الحصص: مصدر واحد (تواقيت الحصص) لجدولي والحصة الآن والتنبيهات والتحية",
+ "code": 302,
+ "v": "24.62",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.62.apk",
+ "notes": "حماية بيانات المزامنة: لا استبدال للسحابة من جهاز جديد، زر استرجاع النسخة السابقة، حماية من رفع بيانات أصغر بكثير",
  "reinstall": false
 }
