@@ -1,7 +1,7 @@
 {
- "code": 302,
- "v": "24.62",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.62.apk",
- "notes": "حماية بيانات المزامنة: لا استبدال للسحابة من جهاز جديد، زر استرجاع النسخة السابقة، حماية من رفع بيانات أصغر بكثير",
+ "code": 337,
+ "v": "24.97",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v24.97.apk",
+ "notes": "إزالة شاشة البداية (الأستاذ الرقمي) عند فتح التطبيق",
  "reinstall": false
 }
