@@ -1,7 +1,7 @@
 {
- "code": 422,
- "v": "25.87",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.87.apk",
- "notes": "إصلاح تناظر الشعب، ثبات نوافذ الحساب والرجوع",
+ "code": 423,
+ "v": "25.88",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.88.apk",
+ "notes": "جدول امتحانات جديد: تواريخ وعطل، شبكة مواد ملونة، نسخ وتوزيع، نماذج عرض؛ تبسيط تناظر الشعب",
  "reinstall": false
 }
