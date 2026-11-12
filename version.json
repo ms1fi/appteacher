@@ -1,7 +1,7 @@
 {
- "code": 421,
- "v": "25.86",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.86.apk",
- "notes": "الأساس والوسطي: تعديل المواد والأسماء والتصميم، ومراحل ابتدائي ومتوسط",
+ "code": 422,
+ "v": "25.87",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.87.apk",
+ "notes": "إصلاح تناظر الشعب، ثبات نوافذ الحساب والرجوع",
  "reinstall": false
 }
