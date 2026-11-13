@@ -1,7 +1,7 @@
 {
- "code": 427,
- "v": "25.92",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.92.apk",
- "notes": "دمج ميزات وورد وأكسل وباوربوينت: لون الصفحة وعلامة مائية وأعمدة وأشكال، مخططات وتصفية وتنسيق شرطي، انتقالات وخلفيات متدرجة وظلال",
+ "code": 429,
+ "v": "25.94",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.94.apk",
+ "notes": "الاحتفاظ بخطوط ملف وورد المضمّنة مع إمكانية تغييرها، وإصلاحات الكتابة والتراجع",
  "reinstall": false
 }
