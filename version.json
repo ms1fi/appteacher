@@ -1,7 +1,7 @@
 {
- "code": 423,
- "v": "25.88",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.88.apk",
- "notes": "جدول امتحانات جديد: تواريخ وعطل، شبكة مواد ملونة، نسخ وتوزيع، نماذج عرض؛ تبسيط تناظر الشعب",
+ "code": 427,
+ "v": "25.92",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.92.apk",
+ "notes": "دمج ميزات وورد وأكسل وباوربوينت: لون الصفحة وعلامة مائية وأعمدة وأشكال، مخططات وتصفية وتنسيق شرطي، انتقالات وخلفيات متدرجة وظلال",
  "reinstall": false
 }
