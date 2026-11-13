@@ -1,7 +1,7 @@
 {
- "code": 429,
- "v": "25.94",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.94.apk",
- "notes": "الاحتفاظ بخطوط ملف وورد المضمّنة مع إمكانية تغييرها، وإصلاحات الكتابة والتراجع",
+ "code": 430,
+ "v": "25.95",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.95.apk",
+ "notes": "إصلاح حجم الخط في وورد: الحجم المختار يُكتب كما هو (16 = 16) بدل الحجم الضخم",
  "reinstall": false
 }
