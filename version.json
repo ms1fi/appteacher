@@ -1,7 +1,7 @@
 {
- "code": 431,
- "v": "25.96",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.96.apk",
- "notes": "مشاركة مباشرة عبر نافذة النظام (واتساب، تلغرام، طابعة) في وورد وإكسل وباوربوينت، وزر حفظ يفتح قائمة الحفظ في الملفات",
+ "code": 432,
+ "v": "25.97",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.97.apk",
+ "notes": "زر مشاركة يعرض خيارين: الملف الأصلي أو PDF، ثم نافذة المشاركة في النظام",
  "reinstall": false
 }
