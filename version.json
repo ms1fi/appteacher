@@ -1,7 +1,7 @@
 {
- "code": 434,
- "v": "25.99",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.99.apk",
- "notes": "إصلاح فتح محرر واجهة السجل خلف المعاينة، واعتماد الواجهة يعرضها مباشرة في السجل",
+ "code": 435,
+ "v": "26.00",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.00.apk",
+ "notes": "ملف Word للسجلات وغيرها يطابق PDF تماماً (صفحات بنفس المظهر والمقاس)",
  "reinstall": false
 }
