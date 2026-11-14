@@ -1,7 +1,7 @@
 {
- "code": 432,
- "v": "25.97",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.97.apk",
- "notes": "زر مشاركة يعرض خيارين: الملف الأصلي أو PDF، ثم نافذة المشاركة في النظام",
+ "code": 434,
+ "v": "25.99",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v25.99.apk",
+ "notes": "إصلاح فتح محرر واجهة السجل خلف المعاينة، واعتماد الواجهة يعرضها مباشرة في السجل",
  "reinstall": false
 }
