@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ms1fi.github.io/appteacher/sitemap.xml
