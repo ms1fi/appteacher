@@ -1,7 +1,7 @@
 {
- "code": 470,
- "v": "26.35",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.35.apk",
- "notes": "إصلاح تصدير PDF وWord: سجل الأساس وكل جدول يظهر مطابقاً للمعاينة (العناوين العمودية والارتفاعات)، 39 صفحة لـ39 طالباً، تبويب قوالبي، شريط سفلي جديد",
+ "code": 471,
+ "v": "26.36",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.36.apk",
+ "notes": "غلاف أمامي لسجل الأساس والوسطي (يظهر في المعاينة وPDF وWord)، إصلاح أزرار التوسيط والخط الغامق جداً، تحسين تصدير السجلات PDF وWord ليطابق المعاينة، وإعادة تصميم شريط التنقل",
  "reinstall": false
 }
