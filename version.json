@@ -1,7 +1,7 @@
 {
- "code": 496,
- "v": "26.61",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.61.apk",
- "notes": "هوامش الورقة اختيارية لكل سجل: بلا هوامش تقريباً / ضيقة / متوسطة / عريضة",
+ "code": 497,
+ "v": "26.62",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.62.apk",
+ "notes": "جدول السجل يمتد على كامل عرض الورقة دائماً وتكبر خانات الدرجات",
  "reinstall": false
 }
