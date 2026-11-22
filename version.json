@@ -1,7 +1,7 @@
 {
- "code": 489,
- "v": "26.54",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.54.apk",
- "notes": "• وضوح الخطوط والألوان في كل التطبيق، خاصة ورقة الأسئلة بالوضع الداكن\n• نوافذ ورقة الأسئلة وأزرارها بألوان واضحة متناسقة\n• زر التكبير في المعاينة لم يعد يغطي «حفظ ومشاركة»",
+ "code": 493,
+ "v": "26.58",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.58.apk",
+ "notes": "توزيع الأوراق ينطبق على كل الشعب المعروضة معاً في المعاينة",
  "reinstall": false
 }
