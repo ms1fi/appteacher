@@ -1,7 +1,7 @@
 {
- "code": 493,
- "v": "26.58",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.58.apk",
- "notes": "توزيع الأوراق ينطبق على كل الشعب المعروضة معاً في المعاينة",
+ "code": 496,
+ "v": "26.61",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.61.apk",
+ "notes": "هوامش الورقة اختيارية لكل سجل: بلا هوامش تقريباً / ضيقة / متوسطة / عريضة",
  "reinstall": false
 }
