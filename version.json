@@ -1,7 +1,7 @@
 {
- "code": 499,
- "v": "26.64",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.64.apk",
- "notes": "عمود التسلسل أضيق بعنوان عمودي ويتسع تلقائياً مع الأرقام الكبيرة، وتكبير مربعات الدرجات لملء الورقة",
+ "code": 500,
+ "v": "26.65",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.65.apk",
+ "notes": "منزلقات الأحجام بدرجة واحدة في كل السجلات، وعرض مستقل لكل حقل إضافي (الملاحظات…) مع تناسق باقي الحقول تلقائياً",
  "reinstall": false
 }
