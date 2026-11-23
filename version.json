@@ -1,7 +1,7 @@
 {
- "code": 498,
- "v": "26.63",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.63.apk",
- "notes": "صفة المدرس والمدير قابلة للاختيار (مدرس/مدرسة/معلم/معلمة، مدير/مديرة) في كل الأوراق المطبوعة",
+ "code": 499,
+ "v": "26.64",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.64.apk",
+ "notes": "عمود التسلسل أضيق بعنوان عمودي ويتسع تلقائياً مع الأرقام الكبيرة، وتكبير مربعات الدرجات لملء الورقة",
  "reinstall": false
 }
