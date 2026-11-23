@@ -1,7 +1,7 @@
 {
- "code": 497,
- "v": "26.62",
- "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.62.apk",
- "notes": "جدول السجل يمتد على كامل عرض الورقة دائماً وتكبر خانات الدرجات",
+ "code": 498,
+ "v": "26.63",
+ "apk": "https://github.com/ms1fi/appteacher/raw/main/digital-teacher-v26.63.apk",
+ "notes": "صفة المدرس والمدير قابلة للاختيار (مدرس/مدرسة/معلم/معلمة، مدير/مديرة) في كل الأوراق المطبوعة",
  "reinstall": false
 }
